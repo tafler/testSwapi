@@ -29,10 +29,7 @@ async function getAllData(item) {
   let next = item.url
   while (next) {
     try {
-      let data = await request(next, {
-        method: 'GET'
-        // proxy: 'http://aatafint:!O9[nvsfo@bproxy.msk.mts.ru:3131'
-      })
+      let data = await request(next)
       data = JSON.parse(data)
       next = data.next
       modifyData(data.results, item.name)
