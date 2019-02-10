@@ -1,4 +1,3 @@
-const request = require('request-promise')
 const consola = require('consola')
 
 const model = require('../model.js')
@@ -22,14 +21,9 @@ function modifyData(data, name) {
 async function getAllData(item) {
   let next = item.url
   while (next) {
-    try {
-      let data = await request(next)
-      data = JSON.parse(data)
-      next = data.next
-      modifyData(data.results, item.name)
-    } catch (e) {
-      throw e
-    }
+    const data = await helpers.request(next)
+    next = data.next
+    modifyData(data.results, item.name)
   }
 }
 
