@@ -1,11 +1,7 @@
-const path = require('path')
 const request = require('request-promise')
-const low = require('lowdb')
 const consola = require('consola')
 
-const FileSync = require('lowdb/adapters/FileSync')
-const adapter = new FileSync(path.resolve(__dirname, '..', 'db/db.json'))
-const db = low(adapter)
+const model = require('../model.js')
 const helpers = require('./helpers')
 
 function modifyData(data, name) {
@@ -19,9 +15,7 @@ function modifyData(data, name) {
       one.img = `/img/planet-${Math.floor(Math.random() * (6 - 1) + 1)}.png`
     }
   }
-  db.get(name)
-    .push(...data)
-    .write()
+  model.fillDB(name, data)
 }
 
 // сбор ВСЕХ данных с апи в цикле
@@ -44,17 +38,7 @@ module.exports = async function getDataFromApi(list) {
   if (list.length === 0) return
 
   // очистка базы перед загрузкой данных
-  for (const one of list) {
-    db.get(one.name)
-      .remove()
-      .write()
-  }
-
-  db.defaults({
-    pilots: [],
-    starships: [],
-    planets: []
-  }).write()
+  await model.clearDB(list)
 
   // вызов метода для всех переданных типов данных и урлов
 

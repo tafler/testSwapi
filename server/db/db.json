@@ -1897,7 +1897,7 @@
       "population": "2000000000",
       "url": "https://swapi.co/api/planets/2/",
       "id": 2,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-1.png"
     },
     {
       "name": "Yavin IV",
@@ -1911,7 +1911,7 @@
       "population": "1000",
       "url": "https://swapi.co/api/planets/3/",
       "id": 3,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Hoth",
@@ -1925,7 +1925,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/4/",
       "id": 4,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Dagobah",
@@ -1939,7 +1939,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/5/",
       "id": 5,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Bespin",
@@ -1953,7 +1953,7 @@
       "population": "6000000",
       "url": "https://swapi.co/api/planets/6/",
       "id": 6,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "Endor",
@@ -1967,7 +1967,7 @@
       "population": "30000000",
       "url": "https://swapi.co/api/planets/7/",
       "id": 7,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Naboo",
@@ -1995,7 +1995,7 @@
       "population": "1000000000000",
       "url": "https://swapi.co/api/planets/9/",
       "id": 9,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Kamino",
@@ -2009,7 +2009,7 @@
       "population": "1000000000",
       "url": "https://swapi.co/api/planets/10/",
       "id": 10,
-      "img": "/img/planet-4.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "Geonosis",
@@ -2051,7 +2051,7 @@
       "population": "20000",
       "url": "https://swapi.co/api/planets/13/",
       "id": 13,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-1.png"
     },
     {
       "name": "Kashyyyk",
@@ -2065,7 +2065,7 @@
       "population": "45000000",
       "url": "https://swapi.co/api/planets/14/",
       "id": 14,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Polis Massa",
@@ -2079,7 +2079,7 @@
       "population": "1000000",
       "url": "https://swapi.co/api/planets/15/",
       "id": 15,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-1.png"
     },
     {
       "name": "Mygeeto",
@@ -2107,7 +2107,7 @@
       "population": "8500000",
       "url": "https://swapi.co/api/planets/17/",
       "id": 17,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Cato Neimoidia",
@@ -2121,7 +2121,7 @@
       "population": "10000000",
       "url": "https://swapi.co/api/planets/18/",
       "id": 18,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Saleucami",
@@ -2135,7 +2135,7 @@
       "population": "1400000000",
       "url": "https://swapi.co/api/planets/19/",
       "id": 19,
-      "img": "/img/planet-4.png"
+      "img": "/img/planet-1.png"
     },
     {
       "name": "Stewjon",
@@ -2163,7 +2163,7 @@
       "population": "22000000000",
       "url": "https://swapi.co/api/planets/21/",
       "id": 21,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Corellia",
@@ -2177,7 +2177,7 @@
       "population": "3000000000",
       "url": "https://swapi.co/api/planets/22/",
       "id": 22,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-1.png"
     },
     {
       "name": "Rodia",
@@ -2191,7 +2191,7 @@
       "population": "1300000000",
       "url": "https://swapi.co/api/planets/23/",
       "id": 23,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Nal Hutta",
@@ -2233,7 +2233,7 @@
       "population": "62000000",
       "url": "https://swapi.co/api/planets/26/",
       "id": 26,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Ord Mantell",
@@ -2247,7 +2247,7 @@
       "population": "4000000000",
       "url": "https://swapi.co/api/planets/27/",
       "id": 27,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "unknown",
@@ -2261,7 +2261,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/28/",
       "id": 28,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Trandosha",
@@ -2275,7 +2275,7 @@
       "population": "42000000",
       "url": "https://swapi.co/api/planets/29/",
       "id": 29,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Socorro",
@@ -2289,7 +2289,7 @@
       "population": "300000000",
       "url": "https://swapi.co/api/planets/30/",
       "id": 30,
-      "img": "/img/planet-4.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Mon Cala",
@@ -2317,7 +2317,7 @@
       "population": "1200000000",
       "url": "https://swapi.co/api/planets/32/",
       "id": 32,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Sullust",
@@ -2331,7 +2331,7 @@
       "population": "18500000000",
       "url": "https://swapi.co/api/planets/33/",
       "id": 33,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Toydaria",
@@ -2345,7 +2345,7 @@
       "population": "11000000",
       "url": "https://swapi.co/api/planets/34/",
       "id": 34,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Malastare",
@@ -2359,7 +2359,7 @@
       "population": "2000000000",
       "url": "https://swapi.co/api/planets/35/",
       "id": 35,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Dathomir",
@@ -2387,7 +2387,7 @@
       "population": "1500000000",
       "url": "https://swapi.co/api/planets/37/",
       "id": 37,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "Aleen Minor",
@@ -2415,7 +2415,7 @@
       "population": "421000000",
       "url": "https://swapi.co/api/planets/39/",
       "id": 39,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Troiken",
@@ -2429,7 +2429,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/40/",
       "id": 40,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Tund",
@@ -2457,7 +2457,7 @@
       "population": "705300",
       "url": "https://swapi.co/api/planets/42/",
       "id": 42,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Cerea",
@@ -2471,7 +2471,7 @@
       "population": "450000000",
       "url": "https://swapi.co/api/planets/43/",
       "id": 43,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "Glee Anselm",
@@ -2485,7 +2485,7 @@
       "population": "500000000",
       "url": "https://swapi.co/api/planets/44/",
       "id": 44,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Iridonia",
@@ -2513,7 +2513,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/46/",
       "id": 46,
-      "img": "/img/planet-4.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Iktotch",
@@ -2527,7 +2527,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/47/",
       "id": 47,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "Quermia",
@@ -2541,7 +2541,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/48/",
       "id": 48,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "Dorin",
@@ -2569,7 +2569,7 @@
       "population": "3500000000",
       "url": "https://swapi.co/api/planets/50/",
       "id": 50,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Mirial",
@@ -2583,7 +2583,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/51/",
       "id": 51,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-1.png"
     },
     {
       "name": "Serenno",
@@ -2597,7 +2597,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/52/",
       "id": 52,
-      "img": "/img/planet-4.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Concord Dawn",
@@ -2611,7 +2611,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/53/",
       "id": 53,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Zolan",
@@ -2625,7 +2625,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/54/",
       "id": 54,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-5.png"
     },
     {
       "name": "Ojom",
@@ -2639,7 +2639,7 @@
       "population": "500000000",
       "url": "https://swapi.co/api/planets/55/",
       "id": 55,
-      "img": "/img/planet-1.png"
+      "img": "/img/planet-3.png"
     },
     {
       "name": "Skako",
@@ -2653,7 +2653,7 @@
       "population": "500000000000",
       "url": "https://swapi.co/api/planets/56/",
       "id": 56,
-      "img": "/img/planet-2.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Muunilinst",
@@ -2667,7 +2667,7 @@
       "population": "5000000000",
       "url": "https://swapi.co/api/planets/57/",
       "id": 57,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Shili",
@@ -2681,7 +2681,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/58/",
       "id": 58,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Kalee",
@@ -2695,7 +2695,7 @@
       "population": "4000000000",
       "url": "https://swapi.co/api/planets/59/",
       "id": 59,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-2.png"
     },
     {
       "name": "Umbara",
@@ -2709,7 +2709,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/60/",
       "id": 60,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-1.png"
     },
     {
       "name": "Tatooine",
@@ -2723,7 +2723,7 @@
       "population": "200000",
       "url": "https://swapi.co/api/planets/1/",
       "id": 1,
-      "img": "/img/planet-3.png"
+      "img": "/img/planet-4.png"
     },
     {
       "name": "Jakku",
@@ -2737,7 +2737,7 @@
       "population": "unknown",
       "url": "https://swapi.co/api/planets/61/",
       "id": 61,
-      "img": "/img/planet-5.png"
+      "img": "/img/planet-3.png"
     }
   ]
 }

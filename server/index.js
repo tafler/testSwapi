@@ -40,7 +40,7 @@ async function start() {
   // Listen the server
   app.listen(port, host)
 
-  const selfHost = host === 'localhost' ? 'http://127.0.0.1' : host
+  const selfHost = host === 'localhost' ? '127.0.0.1' : host
   consola.ready({
     message: `Server listening on http://${selfHost}:${port}`,
     badge: true
